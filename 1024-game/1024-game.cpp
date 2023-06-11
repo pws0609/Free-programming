@@ -1,3 +1,5 @@
+// 이동하며 합하는 코드 작성 필요
+
 #include<iostream>					
 #include<cstdlib>					
 #include<ctime>					
